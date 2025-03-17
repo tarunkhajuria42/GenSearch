@@ -1,5 +1,7 @@
 # GenSearch
 
+Code and data for the paper: 'Comparing a computational model of visual problem solving with human vision on a difficult vision task.'
+
 The data for the experiments is available at : https://osf.io/bfa4h
 
 In the repository:
